@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Docker compose CI/CD Example
 
 Steps to run this project:
 
